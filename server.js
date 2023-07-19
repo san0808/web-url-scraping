@@ -6,11 +6,11 @@ app.use(express.json());
 
 // Define the API endpoint to receive search requests
 app.post('/search', async (req, res) => {
-  const { prompt, numPages } = req.body;
+  const { prompt } = req.body;
 
   try {
-    const profileInfoList = await performSearch(prompt, numPages);
-    res.json({ profiles: profileInfoList });
+    const searchResults = await performSearch(prompt);
+    res.json({ results: searchResults });
   } catch (error) {
     res.status(500).json({ error: 'An error occurred while processing your request.' });
   }

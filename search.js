@@ -1,20 +1,5 @@
 const { chromium } = require('playwright');
-const axios = require('axios');
-require('dotenv').config();
 
-const PROXYCURL_API_KEY = process.env.PROXYCURL_API_KEY;
-
-async function fetchProfileInfo(url) {
-  const response = await axios.get(`https://api.proxycurl.com/v1/scrape`, {
-    params: {
-      url,
-      api_key: PROXYCURL_API_KEY,
-      scrape_type: 'linkedin',
-    },
-  });
-  
-  return response.data;
-}
 async function performSearch(prompt, numPages = 20) {
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
@@ -32,18 +17,8 @@ async function performSearch(prompt, numPages = 20) {
   }
 
   await browser.close();
- //return searchResults;
- const profileInfoList = [];
- for (const url of searchResults) {
-   try {
-     const profileInfo = await fetchProfileInfo(url);
-     profileInfoList.push(profileInfo);
-   } catch (error) {
-     console.error(`Error fetching profile info for ${url}: ${error.message}`);
-   }
- }
-
- return profileInfoList;
+  return searchResults;
+  
 }
 
 module.exports = { performSearch };
