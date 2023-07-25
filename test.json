@@ -136,5 +136,569 @@
     "https://www.linkedin.com/jobs/search?keywords=Ingeniero+de+software&geoId=90000084&trk=d_flagship3_salary_explorer",
     "https://www.linkedin.com/in/johnny-san-a98b43218",
     "https://www.linkedin.com/in/kvpoduri"
+  ],
+  "prompt-13": " site:linkedin.com \"open to work\" \"Software Engineer\" \"Python\" AND \"React\" AND \"San Francisco Bay Area\"",
+  "results-13": [
+    "https://www.linkedin.com/in/bella-shi-755402207",
+    "https://www.linkedin.com/in/saleh-alkaheli-97971815a",
+    "https://www.linkedin.com/in/pranavborole",
+    "https://www.linkedin.com/in/miladtehrani",
+    "https://www.linkedin.com/in/bhajansingh",
+    "https://www.linkedin.com/in/alex-takada-b9385b1a5",
+    "https://www.linkedin.com/in/exequiel-hashimoto",
+    "https://www.linkedin.com/in/ishaan-bhalla",
+    "https://www.linkedin.com/in/balakimwe",
+    "https://www.linkedin.com/in/matthew-oshimo-6859b0180",
+    "https://www.linkedin.com/in/shreyasubhlok",
+    "https://www.linkedin.com/in/bani-kaur-bhalla-779646156",
+    "https://www.linkedin.com/in/jan-revis-a2763a31",
+    "https://www.linkedin.com/in/nidhi-tholar",
+    "https://www.linkedin.com/in/joseph-gutierrez-107a21159",
+    "https://www.linkedin.com/in/matthew-madore",
+    "https://www.linkedin.com/in/thanh-vu-253ab7112",
+    "https://www.linkedin.com/in/simon-tan-b66070122",
+    "https://www.linkedin.com/in/brandon-matran-7646a061",
+    "https://www.linkedin.com/in/derli",
+    "https://www.linkedin.com/in/ckwilcox",
+    "https://www.linkedin.com/in/brian-tran-7ab0261a1",
+    "https://www.linkedin.com/in/farhan-begg-57b48519b",
+    "https://www.linkedin.com/in/pjot726",
+    "https://www.linkedin.com/in/jenis-benjamin-1b23ba246",
+    "https://www.linkedin.com/in/ian-ellison-69786518b",
+    "https://www.linkedin.com/in/mindy-lin-ba2581108",
+    "https://www.linkedin.com/in/haozechen97",
+    "https://www.linkedin.com/in/midori-li-39b18384",
+    "https://www.linkedin.com/in/philliplangley",
+    "https://www.linkedin.com/in/jason-lammers-364a55a8",
+    "https://in.linkedin.com/in/simran-parwani-890844177",
+    "https://www.linkedin.com/in/gohar-matinyan",
+    "https://www.linkedin.com/in/sreeja-sriram",
+    "https://hk.linkedin.com/in/jonathan-jong-2b9496258",
+    "https://www.linkedin.com/in/aungzmyint",
+    "https://www.linkedin.com/in/praveen-m-a8b8561b3?trk=public_profile_browsemap",
+    "https://www.linkedin.com/in/masonkarsevar",
+    "https://www.linkedin.com/in/mocha-brown",
+    "https://www.linkedin.com/in/daniel-velez-4246b987",
+    "https://www.linkedin.com/in/nairrishi",
+    "https://www.linkedin.com/in/pbkavya",
+    "https://www.linkedin.com/in/priyanka-sharma-3a539639",
+    "https://www.linkedin.com/in/singh-abhi",
+    "https://in.linkedin.com/in/sandeep-kumar-48b7a8273",
+    "https://www.linkedin.com/in/jacky-li-05359a227",
+    "https://www.linkedin.com/in/jayandrego",
+    "https://www.linkedin.com/in/aishwarya-mahana",
+    "https://www.linkedin.com/in/zhongbrandon26",
+    "https://www.linkedin.com/in/jkimminau",
+    "https://www.linkedin.com/in/ewanmellor",
+    "https://www.linkedin.com/in/alex-vuong",
+    "https://www.linkedin.com/in/ankurajitgokhale",
+    "https://www.linkedin.com/in/cvichu",
+    "https://www.linkedin.com/in/soni-joshi-9225191a1",
+    "https://in.linkedin.com/in/vikas-girdhar-434a1070",
+    "https://www.linkedin.com/in/manasaghanta",
+    "https://www.linkedin.com/in/julian-segura12",
+    "https://www.linkedin.com/in/ken-phung",
+    "https://www.linkedin.com/in/sumalatha-anu-98a213268",
+    "https://www.linkedin.com/in/ksenia-ramanenka-25289573",
+    "https://il.linkedin.com/in/ola-bannan-98a667175",
+    "https://www.linkedin.com/in/alexownejazayeri",
+    "https://www.linkedin.com/in/vinayguda",
+    "https://www.linkedin.com/in/snehalmaske",
+    "https://www.linkedin.com/in/felix-alvarado-a64536a4",
+    "https://www.linkedin.com/in/dannchurch",
+    "https://in.linkedin.com/in/mukund-goyal-7aa5bb120",
+    "https://www.linkedin.com/in/aaron-short-780446179?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+    "https://in.linkedin.com/in/abhishek-chaudhari-103248216",
+    "https://www.linkedin.com/in/akshitgudoor",
+    "https://www.linkedin.com/in/k-jamie-8619b31b9?trk=public_profile_browsemap",
+    "https://www.linkedin.com/in/abstractsatish",
+    "https://www.linkedin.com/in/mohamed-halim-10727714b",
+    "https://www.linkedin.com/in/chamith-gamage-6aa1a1213",
+    "https://www.linkedin.com/in/johnny-wu-422919ab",
+    "https://www.linkedin.com/in/xi-ling-cpa",
+    "https://in.linkedin.com/in/aditya-shah-71884545",
+    "https://www.linkedin.com/in/jordan-lind",
+    "https://www.linkedin.com/in/aa-bb-036a17159",
+    "https://www.linkedin.com/in/pushpendrakrtiwari",
+    "https://in.linkedin.com/in/shawji",
+    "https://www.linkedin.com/in/xiaohong-liu-b4558238",
+    "https://www.linkedin.com/in/xavierloeraflores",
+    "https://www.linkedin.com/in/cinashahabi",
+    "https://www.linkedin.com/in/jacob-chan-010929180",
+    "https://www.linkedin.com/in/james-p-ab8b58232",
+    "https://www.linkedin.com/in/jack-feiner-1a494912a",
+    "https://www.linkedin.com/in/antoniotorizjr",
+    "https://www.linkedin.com/in/kartikay-gautam-122083151",
+    "https://www.linkedin.com/in/shubhangshah",
+    "https://in.linkedin.com/in/sirish-c-666732184",
+    "https://www.linkedin.com/in/singhtanya25",
+    "https://www.linkedin.com/in/gauri-n",
+    "https://www.linkedin.com/pub/tyler-byrd/20/131/227/",
+    "https://in.linkedin.com/in/sohil-ali-7bb139271",
+    "https://www.linkedin.com/in/katie-wang-688a5668",
+    "https://in.linkedin.com/in/gowtham-pendyala-8527a216b",
+    "https://www.linkedin.com/in/maxgorbatenko",
+    "https://www.linkedin.com/in/john-jack-leckrone-03046219b",
+    "https://www.linkedin.com/in/dhirajdgandhi",
+    "https://in.linkedin.com/in/parin-kansagara",
+    "https://in.linkedin.com/in/darshita-k-841267178",
+    "https://in.linkedin.com/in/aashish-g-40bbb6106?trk=public_profile_recommendations",
+    "https://www.linkedin.com/in/anupthakkar",
+    "https://www.linkedin.com/in/ramesh-venteddu?trk=public_profile_browsemap",
+    "https://www.linkedin.com/in/savankumar-giramoni-666bb323a",
+    "https://www.linkedin.com/in/salam-abdusalamov05",
+    "https://in.linkedin.com/in/rajeev-kumar-403281228",
+    "https://www.linkedin.com/in/cynthia-chung-a40385189",
+    "https://www.linkedin.com/in/ktahop",
+    "https://www.linkedin.com/in/gaganpabby31",
+    "https://www.linkedin.com/in/yi-angelov",
+    "https://www.linkedin.com/in/vighnesh-nayak",
+    "https://www.linkedin.com/in/hobbsgail",
+    "https://www.linkedin.com/in/faustina-nyaung-210324103",
+    "https://www.linkedin.com/in/alexhngo",
+    "https://in.linkedin.com/in/varsha-netake-759868216",
+    "https://www.linkedin.com/in/cameron-logie-63008a101",
+    "https://www.linkedin.com/in/sujitashah",
+    "https://www.linkedin.com/in/andrewhwang27",
+    "https://www.linkedin.com/in/patrick-schramm-a54426216?trk=public_profile_browsemap",
+    "https://www.linkedin.com/in/christian-m-ab3b401a9/fr?trk=people-guest_people_search-card",
+    "https://www.linkedin.com/in/myat-kyaw-0a82511b5",
+    "https://www.linkedin.com/in/xavier-d-leonard",
+    "https://in.linkedin.com/in/satish-kadam-b04542198",
+    "https://www.linkedin.com/in/srjhawar",
+    "https://in.linkedin.com/in/aditya-choudhari-5aaba0212",
+    "https://www.linkedin.com/in/torranceevans",
+    "https://www.linkedin.com/in/aishwarya-laturkar",
+    "https://in.linkedin.com/in/mustafa-wajda-9b1805112",
+    "https://in.linkedin.com/in/sarthak-upadhyay-499859253",
+    "https://in.linkedin.com/in/mdelyasahmed",
+    "https://www.linkedin.com/in/sanjana-vijaykumar-02074671",
+    "https://in.linkedin.com/in/rahul-sharma-248b90116",
+    "https://www.linkedin.com/in/teddy-mai",
+    "https://in.linkedin.com/in/amit-bhutani-6a4801236?trk=people-guest_people_search-card",
+    "https://www.linkedin.com/in/meganmoulos",
+    "https://www.linkedin.com/in/harini-sambaraju-568a89126",
+    "https://in.linkedin.com/in/mukesh-mehta-724919a1",
+    "https://www.linkedin.com/in/walter-hills-a52535205",
+    "https://in.linkedin.com/in/aakashdp",
+    "https://www.linkedin.com/in/emma-lavelle-00388817b",
+    "https://www.linkedin.com/in/kushagrasoni",
+    "https://in.linkedin.com/in/bhargav-kumar-ganji",
+    "https://www.linkedin.com/in/samanthamhuang",
+    "https://www.linkedin.com/in/madhu-reddy-619791260",
+    "https://www.linkedin.com/in/shikharsharma8",
+    "https://www.linkedin.com/in/vedparkash-singh",
+    "https://in.linkedin.com/in/baddam-anurag-reddy-a546b812b",
+    "https://in.linkedin.com/in/sid-jamwal-4490a6230?trk=public_profile_samename-profile",
+    "https://www.linkedin.com/in/pratik-patel-bbb6149a",
+    "https://www.linkedin.com/in/szu-kai-chen",
+    "https://in.linkedin.com/in/alpha%E3%83%84-razzer-88045a225",
+    "https://www.linkedin.com/in/justin-foreman-babbb544",
+    "https://www.linkedin.com/in/robertchen2022",
+    "https://in.linkedin.com/in/gnanesh-d-b9612a12b",
+    "https://www.linkedin.com/in/skyler-milliken-49551674",
+    "https://www.linkedin.com/in/temursabirov",
+    "https://www.linkedin.com/in/jonathanchen7",
+    "https://in.linkedin.com/in/sameerlink",
+    "https://www.linkedin.com/in/heatheramahan",
+    "https://www.linkedin.com/in/shivanireddysingireddy",
+    "https://www.linkedin.com/in/prashanthsubbiah",
+    "https://www.linkedin.com/in/shibo-lu-stan",
+    "https://www.linkedin.com/in/sai-chaitanya-dasari",
+    "https://www.linkedin.com/in/fuya-koshiro",
+    "https://www.linkedin.com/in/danieljberk",
+    "https://in.linkedin.com/in/xi11a?trk=public_profile_browsemap",
+    "https://www.linkedin.com/in/aishwarya-patil-68662a274",
+    "https://www.linkedin.com/in/bjgopinath",
+    "https://www.linkedin.com/in/eric-lewis-3260671a5",
+    "https://www.linkedin.com/in/kali-nfn",
+    "https://www.linkedin.com/in/thanmai-gajam",
+    "https://www.linkedin.com/in/jonamichahammo",
+    "https://in.linkedin.com/in/sagardas7",
+    "https://www.linkedin.com/in/alan-martinez-83404026a",
+    "https://pk.linkedin.com/in/afaq-ahmad1",
+    "https://in.linkedin.com/in/anushapedapudi",
+    "https://www.linkedin.com/in/bartell-lin-194a41179",
+    "https://www.linkedin.com/in/gaurav-dhir",
+    "https://www.linkedin.com/in/apurvakatti19",
+    "https://in.linkedin.com/in/hema-karande-41438a1a",
+    "https://in.linkedin.com/in/rahul-sharma-05b394111",
+    "https://www.linkedin.com/in/austin-strain-99480b186",
+    "https://www.linkedin.com/in/sk-b62963111",
+    "https://www.linkedin.com/in/adithyaholla",
+    "https://www.linkedin.com/in/caitlyn-xu-b9322021b",
+    "https://in.linkedin.com/in/atif-hasan-a3a1b945",
+    "https://in.linkedin.com/in/rahul-sharma-64720b258",
+    "https://in.linkedin.com/in/nikhil-joglekar-45bb03bb",
+    "https://www.linkedin.com/in/aishwaryasharma27",
+    "https://in.linkedin.com/in/divya-sree-84468539",
+    "https://www.linkedin.com/in/jesse-morris-385029107",
+    "https://www.linkedin.com/in/andrew-chung",
+    "https://www.linkedin.com/in/michael-gallagher-90380b21",
+    "https://in.linkedin.com/in/vijai-balaji-24743b166",
+    "https://www.linkedin.com/in/youngr",
+    "https://www.linkedin.com/in/bob-douglas-a23431110",
+    "https://www.linkedin.com/in/harjit-deo-29a067122"
+  ],
+  "prompt-15": " site:linkedin.com \"open to work\" \"Software Engineer\" \"Python\" AND \"React\" AND \"San Francisco Bay Area\"",
+  "results-15": [
+    {
+      "title": "Bella Shi - San Francisco Bay Area | Professional Profile",
+      "snippet": ""
+    },
+    {
+      "title": "Saleh Alkaheli",
+      "snippet": ""
+    },
+    {
+      "title": "Pranav Borole",
+      "snippet": ""
+    },
+    {
+      "title": "Milad T.",
+      "snippet": ""
+    },
+    {
+      "title": "Bhajan Singh",
+      "snippet": ""
+    },
+    {
+      "title": "Alex Takada - San Francisco, California, United States",
+      "snippet": ""
+    },
+    {
+      "title": "Exequiel Hashimoto",
+      "snippet": ""
+    },
+    {
+      "title": "Ishaan Bhalla - Full Stack Developer, UI / UX ...",
+      "snippet": ""
+    },
+    {
+      "title": "Balakimwe Farara",
+      "snippet": ""
+    },
+    {
+      "title": "Matthew Oshimo",
+      "snippet": ""
+    }
+  ],
+  "prompt-17": " site:linkedin.com \"open to work\" \"Software Engineer\" \"Python\" AND \"React\" AND \"San Francisco Bay Area\"",
+  "results-17": [
+    {
+      "title": "Bella Shi - San Francisco Bay Area | Professional Profile",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/bella-shi-755402207"
+    },
+    {
+      "title": "Saleh Alkaheli",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/saleh-alkaheli-97971815a"
+    },
+    {
+      "title": "Pranav Borole",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/pranavborole"
+    },
+    {
+      "title": "Bhajan Singh",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/bhajansingh"
+    },
+    {
+      "title": "Alex Takada - San Francisco, California, United States",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/alex-takada-b9385b1a5"
+    },
+    {
+      "title": "Exequiel Hashimoto",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/exequiel-hashimoto"
+    },
+    {
+      "title": "Matthew Oshimo",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/matthew-oshimo-6859b0180"
+    },
+    {
+      "title": "Bani Kaur Bhalla - Northeastern University",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/bani-kaur-bhalla-779646156"
+    },
+    {
+      "title": "Balakimwe Farara",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/balakimwe"
+    },
+    {
+      "title": "Milad T.",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/miladtehrani"
+    }
+  ],
+  "prompt-19": " site:linkedin.com \"open to work\" \"Software Engineer\" \"Python\" AND \"React\" AND \"San Francisco Bay Area\"",
+  "results-19": [
+    {
+      "title": "Bella Shi - San Francisco Bay Area | Professional Profile",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/bella-shi-755402207"
+    },
+    {
+      "title": "Saleh Alkaheli",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/saleh-alkaheli-97971815a"
+    },
+    {
+      "title": "Pranav Borole",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/pranavborole"
+    },
+    {
+      "title": "Bhajan Singh",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/bhajansingh"
+    },
+    {
+      "title": "Alex Takada - San Francisco, California, United States",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/alex-takada-b9385b1a5"
+    },
+    {
+      "title": "Exequiel Hashimoto",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/exequiel-hashimoto"
+    },
+    {
+      "title": "Matthew Oshimo",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/matthew-oshimo-6859b0180"
+    },
+    {
+      "title": "Bani Kaur Bhalla - Northeastern University",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/bani-kaur-bhalla-779646156"
+    },
+    {
+      "title": "Balakimwe Farara",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/balakimwe"
+    },
+    {
+      "title": "Milad T.",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/miladtehrani"
+    }
+  ],
+  "prompt-21": " site:linkedin.com \"open to work\" \"Software Engineer\" \"Python\" AND \"React\" AND \"San Francisco Bay Area\"",
+  "results-21": [
+    {
+      "title": "Bella Shi - San Francisco Bay Area | Professional Profile",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/bella-shi-755402207"
+    },
+    {
+      "title": "Saleh Alkaheli",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/saleh-alkaheli-97971815a"
+    },
+    {
+      "title": "Pranav Borole",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/pranavborole"
+    },
+    {
+      "title": "Bhajan Singh",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/bhajansingh"
+    },
+    {
+      "title": "Alex Takada - San Francisco, California, United States",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/alex-takada-b9385b1a5"
+    },
+    {
+      "title": "Exequiel Hashimoto",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/exequiel-hashimoto"
+    },
+    {
+      "title": "Matthew Oshimo",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/matthew-oshimo-6859b0180"
+    },
+    {
+      "title": "Bani Kaur Bhalla - Northeastern University",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/bani-kaur-bhalla-779646156"
+    },
+    {
+      "title": "Balakimwe Farara",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/balakimwe"
+    },
+    {
+      "title": "Milad T.",
+      "snippet": "",
+      "url": "https://www.linkedin.com/in/miladtehrani"
+    }
+  ],
+  "prompt-23": " site:linkedin.com \"open to work\" \"Software Engineer\" \"Python\" AND \"React\" AND \"San Francisco Bay Area\"",
+  "results-23": [
+    {
+      "title": "Bella Shi - San Francisco Bay Area | Professional Profile",
+      "snippet": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/in/bella-shi-755402207"
+    },
+    {
+      "title": "Saleh Alkaheli",
+      "snippet": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/in/saleh-alkaheli-97971815a"
+    },
+    {
+      "title": "Pranav Borole",
+      "snippet": "open to work",
+      "url": "https://www.linkedin.com/in/pranavborole"
+    },
+    {
+      "title": "Milad T.",
+      "snippet": "software engineer",
+      "url": "https://www.linkedin.com/in/miladtehrani"
+    },
+    {
+      "title": "Bhajan Singh",
+      "snippet": "Python, and React",
+      "url": "https://www.linkedin.com/in/bhajansingh"
+    },
+    {
+      "title": "Alex Takada - San Francisco, California, United States",
+      "snippet": "Software Engineer",
+      "url": "https://www.linkedin.com/in/alex-takada-b9385b1a5"
+    },
+    {
+      "title": "Exequiel Hashimoto",
+      "snippet": "Software engineer open to work",
+      "url": "https://www.linkedin.com/in/exequiel-hashimoto"
+    },
+    {
+      "title": "Ishaan Bhalla - Full Stack Developer, UI / UX ...",
+      "snippet": "React",
+      "url": "https://www.linkedin.com/in/ishaan-bhalla"
+    },
+    {
+      "title": "Balakimwe Farara",
+      "snippet": "open to work",
+      "url": "https://www.linkedin.com/in/balakimwe"
+    },
+    {
+      "title": "Matthew Oshimo",
+      "snippet": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/in/matthew-oshimo-6859b0180"
+    }
+  ],
+  "prompt-25": " site:linkedin.com \"open to work\" \"Software Engineer\" \"Python\" AND \"React\" AND \"San Francisco Bay Area\"",
+  "results-25": [
+    {
+      "title": "Bella Shi - San Francisco Bay Area | Professional Profile",
+      "snippet": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/in/bella-shi-755402207"
+    },
+    {
+      "title": "Saleh Alkaheli",
+      "snippet": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/in/saleh-alkaheli-97971815a"
+    },
+    {
+      "title": "Pranav Borole",
+      "snippet": "open to work",
+      "url": "https://www.linkedin.com/in/pranavborole"
+    },
+    {
+      "title": "Milad T.",
+      "snippet": "software engineer",
+      "url": "https://www.linkedin.com/in/miladtehrani"
+    },
+    {
+      "title": "Bhajan Singh",
+      "snippet": "Python, and React",
+      "url": "https://www.linkedin.com/in/bhajansingh"
+    },
+    {
+      "title": "Alex Takada - San Francisco, California, United States",
+      "snippet": "Software Engineer",
+      "url": "https://www.linkedin.com/in/alex-takada-b9385b1a5"
+    },
+    {
+      "title": "Exequiel Hashimoto",
+      "snippet": "Software engineer open to work",
+      "url": "https://www.linkedin.com/in/exequiel-hashimoto"
+    },
+    {
+      "title": "Ishaan Bhalla - Full Stack Developer, UI / UX ...",
+      "snippet": "React",
+      "url": "https://www.linkedin.com/in/ishaan-bhalla"
+    },
+    {
+      "title": "Balakimwe Farara",
+      "snippet": "open to work",
+      "url": "https://www.linkedin.com/in/balakimwe"
+    },
+    {
+      "title": "Matthew Oshimo",
+      "snippet": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/in/matthew-oshimo-6859b0180"
+    }
+  ],
+  "prompt-27": " site:linkedin.com \"open to work\" \"Software Engineer\" \"Python\" AND \"React\" AND \"San Francisco Bay Area\"",
+  "results-27": [
+    {
+      "title": "Bella Shi - San Francisco Bay Area | Professional Profile",
+      "snippet": "San Francisco Bay Area Python Software Engineer Open to work",
+      "url": "https://www.linkedin.com/in/bella-shi-755402207"
+    },
+    {
+      "title": "Saleh Alkaheli",
+      "snippet": "San Francisco Bay Area React Software Engineer Open to work",
+      "url": "https://www.linkedin.com/in/saleh-alkaheli-97971815a"
+    },
+    {
+      "title": "Pranav Borole",
+      "snippet": "open to work Software Engineer",
+      "url": "https://www.linkedin.com/in/pranavborole"
+    },
+    {
+      "title": "Milad T.",
+      "snippet": "software engineer Python React",
+      "url": "https://www.linkedin.com/in/miladtehrani"
+    },
+    {
+      "title": "Bhajan Singh",
+      "snippet": "Python, and React Software Engineer",
+      "url": "https://www.linkedin.com/in/bhajansingh"
+    },
+    {
+      "title": "Alex Takada - San Francisco, California, United States",
+      "snippet": "Software Engineer Open to work React Python San Francisco Bay Area",
+      "url": "https://www.linkedin.com/in/alex-takada-b9385b1a5"
+    },
+    {
+      "title": "Exequiel Hashimoto",
+      "snippet": "Software engineer open to work React Python",
+      "url": "https://www.linkedin.com/in/exequiel-hashimoto"
+    },
+    {
+      "title": "Ishaan Bhalla - Full Stack Developer, UI / UX ...",
+      "snippet": "React Python Open To Work Software Engineer Software Engineer",
+      "url": "https://www.linkedin.com/in/ishaan-bhalla"
+    },
+    {
+      "title": "Balakimwe Farara",
+      "snippet": "open to work Software Engineer Python San Francisco Bay Area",
+      "url": "https://www.linkedin.com/in/balakimwe"
+    },
+    {
+      "title": "Matthew Oshimo",
+      "snippet": "San Francisco Bay Area React Python Software Engineer Open to Work",
+      "url": "https://www.linkedin.com/in/matthew-oshimo-6859b0180"
+    }
   ]
 }

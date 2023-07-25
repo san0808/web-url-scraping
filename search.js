@@ -13,7 +13,20 @@ async function performSearch(prompt, numPages = 20) {
     await page.goto(pageUrl);
     await page.waitForLoadState('networkidle');
 
-    const pageSearchResults = await page.$$eval('div.g a', (links) => links.map((link) => link.href));
+    const pageSearchResults = await page.$$eval('div.g', (results) => {
+      return results.map((result) => {
+        const titleElement = result.querySelector('h3');
+        const snippetElements = result.querySelectorAll('em'); // Use querySelectorAll to get all em elements
+        const urlElement = result.querySelector('a');
+
+        const title = titleElement ? titleElement.innerText : '';
+        const snippet = Array.from(snippetElements).map((el) => el.innerText).join(' '); // Join the text of all em elements
+        const url = urlElement ? urlElement.href : '';
+
+        return { title, snippet, url };
+      });
+    });
+
     searchResults.push(...pageSearchResults);
   }
 
@@ -39,6 +52,8 @@ async function performSearch(prompt, numPages = 20) {
 }
 
 module.exports = { performSearch };
+
+
 
 
 

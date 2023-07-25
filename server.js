@@ -4,7 +4,7 @@ const { performSearch } = require('./search');
 const app = express();
 app.use(express.json());
 
-// Define the API endpoint to receive search requests
+
 app.post('/search', async (req, res) => {
   const { prompt } = req.body;
 
