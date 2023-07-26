@@ -1,7 +1,7 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 
-async function performSearch(prompt, numPages = 20) {
+async function performSearch(prompt, numPages = 1) {
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
   const page = await context.newPage();
@@ -16,11 +16,11 @@ async function performSearch(prompt, numPages = 20) {
     const pageSearchResults = await page.$$eval('div.g', (results) => {
       return results.map((result) => {
         const titleElement = result.querySelector('h3');
-        const snippetElements = result.querySelectorAll('em'); // Use querySelectorAll to get all em elements
+        const snippetElements = result.querySelectorAll('div.VwiC3b.yXK7lf.MUxGbd.yDYNvb.lyLwlc.lEBKkf'); 
         const urlElement = result.querySelector('a');
 
         const title = titleElement ? titleElement.innerText : '';
-        const snippet = Array.from(snippetElements).map((el) => el.innerText).join(' '); // Join the text of all em elements
+        const snippet = Array.from(snippetElements).map((el) => el.innerText).join(' '); 
         const url = urlElement ? urlElement.href : '';
 
         return { title, snippet, url };
@@ -32,20 +32,17 @@ async function performSearch(prompt, numPages = 20) {
 
   await browser.close();
 
-  // Read existing data from test.json
   let jsonData = {};
   if (fs.existsSync('test.json')) {
     const rawData = fs.readFileSync('test.json');
     jsonData = JSON.parse(rawData);
   }
 
-  // Append the new prompt and search results
   const promptKey = `prompt-${Object.keys(jsonData).length + 1}`;
   const resultsKey = `results-${Object.keys(jsonData).length + 1}`;
   jsonData[promptKey] = prompt;
   jsonData[resultsKey] = searchResults;
 
-  // Write the updated data back to test.json
   fs.writeFileSync('test.json', JSON.stringify(jsonData, null, 2));
 
   return searchResults;
